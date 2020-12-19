@@ -3,7 +3,7 @@ import os
 import pandas as pd
 from os.path import join, dirname
 from pathlib import Path
-os.chdir('/Users/bendjamin101001/OneDrive - University of Georgia/2020Fall/rotation/PeggyOziasAkins/peanut_root_analysis_2020/renamed_original_size_images')
+os.chdir('/Path/to/work/dir')
 
 resize_factor = 0.1
 
